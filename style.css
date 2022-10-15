@@ -285,6 +285,288 @@ body {
 
 
 
+/* DESKTOP ACTIVE */
+@media only screen and (max-width:1024px) {
+.logo {
+position: absolute;
+width: 119px;
+height: 28px;
+left: 861px;
+top: 80px;
+   
+}
+  
+  .header {
+    position: absolute;
+    width: 1504px;
+    height: 358px;
+    left: -17px;
+    top: 207px;
+  }
+  
+  .header-text {
+    position: absolute;
+    left: 650px;
+    top: 90px;
+    color: #28283d;
+    font-style: normal;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 900;
+    line-height: 94px;
+  }
+   .meet{
+    position: absolute;
+    width: 540px;
+    height: 52px;
+    left: 665px;
+    top: 416px;
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #87879D;
+   }
+  
+  
+  .header-img-right {
+    position: absolute;
+    width: 250px;
+    height: 200px;
+    left: 1593px;
+    top: 10px;
+  }
+
+
+  
+  .downloadbttn {
+    position: absolute;
+    width: 193px;
+    height: 58px;
+    left: 561px;
+    top: 500px;
+    width: 348px;
+    height: 58px;
+    border-radius: 29px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    background: #71C0D4;
+    border: #71C0D4;
+
+  }
+  
+  .whatbttn {
+    position: absolute;
+    width: 139px;
+    height: 58px;
+    left: 970px;
+    top: 500px;
+    border-radius: 29px;
+    width: 348px;
+    height: 58px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 26px;
+    background: #B18BDD;
+    text-align: center;
+    color: #FFFFFF;
+    border:#B18BDD ;
+  }
+  
+  .zero-one {
+    position: absolute;
+    left: 900px;
+    top: 984px;
+    height: 56px;
+    width: 56px;
+    border-radius: 29px;
+    background: #fafafa;
+    border: 1px solid rgba(135, 135, 157, 0.25);
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #87879d;
+  
+   
+    
+  }
+  
+  .images {
+    position: absolute;
+    width: 1110px;
+    height: 242px;
+    left: 255px;
+    top: 281px;
+  }
+
+  .woman-videocall{
+  position: absolute;
+  width: 255px;
+  height: 242px;
+  left: 165px;
+  top: 841px;
+  margin-right: 20px;
+ }
+
+.women-chatting{
+  position: absolute;
+  width: 255px;
+  height: 242px;
+  left: 450px;
+  top: 841px;
+  margin-right: 20px;
+}
+.men-meeting{
+  position: absolute;
+  width: 255px;
+  height: 242px;
+  left: 735px;
+  top: 841px;
+  margin-right: 20px;
+}
+.man-texting{
+  position: absolute;
+  width: 255px;
+  height: 242px;
+  left: 1020px;
+  top: 841px;
+}
+
+.text {
+  position: relative;
+  left: 80.89%;
+  margin-top: 140%;
+  bottom: 85.83%;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  color: #4D96A9;
+  }
+  
+  h2 {
+    position: relative;
+    left: 44.89%;
+    right: 29.7%;
+    top: 146.5%;
+    bottom: 95.83%;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 44px;
+    text-align: center;
+    color: #28283d;
+
+  }
+  h4 {
+
+    position: relative;
+    left: 46.89%;
+    right: 25.7%;
+    top: 159.9%;
+    bottom: 105.83%;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #87879D;
+  }
+  
+  .zero-two {
+    position: relative;
+    left: 93.89%;
+    right: 25.7%;
+    margin-top: 23%;
+    /* top: 10.9%; */
+    height: 56px;
+    width: 56px;
+    box-sizing: border-box;
+    background: #FAFAFA;
+    border: 1px solid rgba(135, 135, 157, 0.25);
+    border-radius: 29px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #87879D;
+    padding: 10px;
+  }
+
+
+  .footer img{
+    height: 308px;
+    width: 2000px;
+    mix-blend-mode: normal;
+    opacity:20%;
+  }
+  
+  
+  .footer {
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    top: 1950px;
+    left: 5px;
+    height: 308px;
+    width: 2000px;
+    background-color: #4D96A9;
+    
+  }
+
+  
+  .footer-left {
+    position: absolute;
+    left: 130px;
+    top: 100px;
+    font-style: normal;
+    font-weight: 900px;
+    font-size: 40px;
+    line-height: 44px;
+    color: #FAFAFA;
+    
+  
+  }
+  
+  .footer-middle {
+    position: absolute;
+    top:120px ;
+    left: 800px;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 18px;
+    line-height: 26px;
+    color: #FAFAFA;
+  }
+  
+  .footer-bttn {
+    position: absolute;
+    width: 193px;
+    height: 58px;
+    left: 1582px;
+    top: 170px;
+    background: #855fb1;
+    border-radius: 29px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    border:#B18BDD ;
+  
+  }
+}
 
 
 
